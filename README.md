@@ -1,8 +1,6 @@
 # README
 
-This is a birthday card for my old man. Can be found [here](https://mcdonald-guys-holiday-2024.netlify.app)
-
-May repurpose for other cards in the future though.
+This is a holiday card for the McDonald's Crew. Can be found [here](https://mcdonald-guys-holiday-2024.netlify.app)
 
 ## Open repo locally
 
